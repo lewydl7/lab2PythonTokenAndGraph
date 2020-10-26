@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d38e9e-fc72-4f7b-9959-036bf80a39ef" name="Default Changelist" comment="" />
+    <list default="true" id="99d38e9e-fc72-4f7b-9959-036bf80a39ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="cec2aa8e-5570-425d-bf50-015afc3e0547" />
   <component name="ProjectId" id="1jOJR6RdhVRBKXYrpzWO3saLwS6" />
   <component name="ProjectViewState">
@@ -23,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2PythonGraph" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="text_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -65,6 +70,7 @@
       <workItem from="1603669207563" duration="1894000" />
       <workItem from="1603701672421" duration="439000" />
       <workItem from="1603702128206" duration="877000" />
+      <workItem from="1603747090946" duration="938000" />
     </task>
     <servers />
   </component>
