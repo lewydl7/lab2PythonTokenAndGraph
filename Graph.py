@@ -1,6 +1,5 @@
 import numpy
 
-
 class Graph:
 
     lista = {}
